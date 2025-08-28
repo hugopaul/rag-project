@@ -1,3 +1,3 @@
 vectordb_data/
-backend\base\JIRA.xml
-backend\.env
+backend/.env
+backend/base/JIRA.xml
